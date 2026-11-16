@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{color-scheme:light;--bg:#FAF7F2;--card:#ffffff;--ink:#2a211c;--mute:#7a6d63;--line:#eadfd2;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#1d1814;--card:#2a231e;--ink:#f4ece3;--mute:#b3a496;--line:#3d332b}}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{background:var(--bg);color:var(--ink);font-family:'DM Sans','Noto Sans Khmer',sans-serif}
+.serif{font-family:'Playfair Display',Georgia,serif}
+.kbach{background-image:radial-gradient(circle,rgba(212,175,55,.28) 0 2px,transparent 3px);background-size:26px 26px}
+@keyframes pop{0%{transform:scale(.2) translateY(30px);opacity:0}60%{transform:scale(1.12) translateY(-6px);opacity:1}100%{transform:scale(1)}}
+@keyframes bob{50%{transform:translateY(-6px)}}
+.pop{animation:pop .55s cubic-bezier(.34,1.56,.64,1) both}.bob{animation:bob 2.2s ease-in-out infinite}

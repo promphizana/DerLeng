@@ -1,0 +1,37 @@
+Put photos here named by number (1.jpg, 2.jpg ...). Missing photos show the illustrated card.
+
+1.jpg  =  Phnom Penh · Koh Dach Silk Weaving
+2.jpg  =  Phnom Penh · Royal Palace Dawn Walk
+3.jpg  =  Phnom Penh · Mekong Sunset Cyclo Ride
+4.jpg  =  Phnom Penh · Russian Market Street-Food Crawl
+5.jpg  =  Phnom Penh · Koh Chen Silversmith Workshop
+6.jpg  =  Siem Reap · Kompong Phluk Mangrove Kayak
+7.jpg  =  Siem Reap · Golden Silk Farm & Loom
+8.jpg  =  Siem Reap · Rice Paddy Bike & Picnic
+9.jpg  =  Siem Reap · Apsara Dance Behind the Scenes
+10.jpg  =  Siem Reap · Village Kitchen: Fish Amok Class
+11.jpg  =  Battambang · Bamboo Train & Sugarcane Juice
+12.jpg  =  Battambang · Phnom Sampov Bat Cave Sunset
+13.jpg  =  Battambang · Rice Paper & Noodle Makers
+14.jpg  =  Battambang · Pottery Village Wheel Class
+15.jpg  =  Battambang · Colonial Town Art Walk
+16.jpg  =  Kampot · La Plantation Pepper Tasting
+17.jpg  =  Kampot · River Firefly Boat Night
+18.jpg  =  Kampot · Salt Fields at Dawn
+19.jpg  =  Kampot · Bokor Hill Sunrise Hike
+20.jpg  =  Kampot · Durian Orchard Tasting
+21.jpg  =  Kep · Crab Market & Cooking Class
+22.jpg  =  Kep · Rabbit Island Kayak Escape
+23.jpg  =  Kep · National Park Jungle Walk
+24.jpg  =  Kep · Coconut Palm-Sugar Making
+25.jpg  =  Kep · Seaside Yoga at Dawn
+26.jpg  =  Kirirom · Chambok Waterfall Trek
+27.jpg  =  Kirirom · Community Homestay Dinner
+28.jpg  =  Kirirom · Pine Forest Cycling
+29.jpg  =  Kirirom · Herbal Sauna & Kroma Massage
+30.jpg  =  Kirirom · Bamboo Basket Weaving Hut
+31.jpg  =  Sihanoukville · Koh Rong Samloem Snorkel
+32.jpg  =  Sihanoukville · Fishing Village Squid Night
+33.jpg  =  Sihanoukville · Ream Mangrove Walk
+34.jpg  =  Sihanoukville · Wooden Boat Builders Yard
+35.jpg  =  Sihanoukville · Beach Bonfire & Khmer Music
